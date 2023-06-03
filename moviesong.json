@@ -1,0 +1,264 @@
+{
+  "Song Movie" : {
+	"Singer Name":[
+		{
+			"id":1,
+			"Name":"Neha Kakkar",
+			"img":"https://www.koimoi.com/wp-content/new-galleries/2020/05/neha-kakkar-never-thought-about-where-ive-reached-today-001.jpg"
+		},
+		{
+			"id":2,
+			"Name":"Arijit Singh",
+			"img":"https://economictimes.indiatimes.com/thumb/msid-100076153,width-1200,height-900,resizemode-4,imgsize-47012/arijit-singh-2.jpg"
+		},
+		{
+			"id":3,
+			"Name":"Armaan Malik",
+			"img":"https://cdn.siasat.com/wp-content/uploads/2021/03/Armaan-Malik-to-fans-Dont-bring-another-artist-down-or.jpg"
+		},
+		{
+			"id":4,
+			"Name":"KK",
+			"img":"https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230531172041.jpg"
+		},
+		{
+			"id":5,
+			"Name":"Shreya Ghoshal",
+			"img":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Shreya_Ghoshal_at_Filmfare_Awards_South.jpg"
+		},
+		{
+			"id":6,
+			"Name":"Jubin Nautiyal",
+			"img":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Jubin_Nautiyal_graces_the_International_Customs_Day.jpg"
+		}
+	],
+	"Neha Kakkar":[
+		{
+			"id": 1,
+			"Video_Id": "RGeDLWZFLHM",
+			"Movie_name": "Hindi Top 10 Hit Songs Of Neha Kakkar 2022",
+			"Movieimg": "https://i.ytimg.com/vi/RGeDLWZFLHM/hq720.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "UBOHA9a5NIQ",
+			"Movie_name": "12 Ladke - Tony Kakkar , Neha Kakkar",
+			"Movieimg": "https://i.ytimg.com/vi/UBOHA9a5NIQ/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "7rbgOx6RIvQ",
+			"Movie_name": "Best Songs Neha kakkar",
+			"Movieimg": "https://i.ytimg.com/vi/7rbgOx6RIvQ/hqdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "xtgC88yFXeM",
+			"Movie_name": "PUCHDA HI NAHIN",
+			"Movieimg": "https://i.ytimg.com/vi/xtgC88yFXeM/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "VAZxSoKb65o",
+			"Movie_name": "Taaron Ke Shehar",
+			"Movieimg": "https://i.ytimg.com/vi/VAZxSoKb65o/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "zfX8aOKiXxg",
+			"Movie_name": "Tribute to Arijit Singh",
+			"Movieimg": "https://i.ytimg.com/vi/zfX8aOKiXxg/hq720.jpg"
+		}
+	],
+	"Arijit Singh":[
+		{
+			"id": 1,
+			"Video_Id": "_z8UyrLlM7k",
+			"Movie_name": "Arijit Singh Hits Songs",
+			"Movieimg": "https://i.ytimg.com/vi/_z8UyrLlM7k/hq720.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "KPk34_zCt-g",
+			"Movie_name": "Arijit Singh Romantic Hindi Songs",
+			"Movieimg": "https://i.ytimg.com/vi/KPk34_zCt-g/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "ElZfdU54Cp8",
+			"Movie_name": "Apna Bana Le - Bhediya",
+			"Movieimg": "https://i.ytimg.com/vi/ElZfdU54Cp8/hq720.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "EdftT8GMU1U",
+			"Movie_name": "O Bedardeya",
+			"Movieimg": "https://i.ytimg.com/vi/EdftT8GMU1U/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "rI6LEvwWT7g",
+			"Movie_name": "Arijit Singh Mashup",
+			"Movieimg": "https://i.ytimg.com/vi/rI6LEvwWT7g/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "CUYTqG-kwyA",
+			"Movie_name": "Best of Arijit Singhs 2023 ",
+			"Movieimg": "https://i.ytimg.com/vi/CUYTqG-kwyA/hq720.jpg"
+		}
+	],
+	"Armaan Malik":[
+		{
+			"id": 1,
+			"Video_Id": "VFjKpDgnUrM",
+			"Movie_name": "Latest Bollywood Songs 2021",
+			"Movieimg": "https://i.ytimg.com/vi/VFjKpDgnUrM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFsoXDAP&rs=AOn4CLAjKOgraB5M7HwaegrWlbjyfCNHPw"
+		},
+		{
+			"id": 2,
+			"Video_Id": "jGTcfILiesQ",
+			"Movie_name": "Armaan Malik Top 10 Song",
+			"Movieimg": "https://i.ytimg.com/vi/jGTcfILiesQ/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "f1qz8vn3XbY",
+			"Movie_name": "Ghar Se Nikalte Hi Song",
+			"Movieimg": "https://i.ytimg.com/vi/f1qz8vn3XbY/hq720.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "4w3kufvHkSs",
+			"Movie_name": "Armaan Malik Romantic Songs 2021",
+			"Movieimg": "https://i.ytimg.com/vi/4w3kufvHkSs/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "fM7ckgyDoHg",
+			"Movie_name": "Bol Do Na Zara Dil Mein Jo Hai Chhipa",
+			"Movieimg": "https://i.ytimg.com/vi/fM7ckgyDoHg/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "fVw5TX3y5Zc",
+			"Movie_name": "Best Of Armaan Malik",
+			"Movieimg": "https://i.ytimg.com/vi/fVw5TX3y5Zc/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgmAAtAFigIMCAAQARg4IFoocjAP&rs=AOn4CLBLHY2n0X1d0dwGEjJjcAGr4OWfzw"
+		}
+	],
+	"KK":[
+		{
+			"id": 1,
+			"Video_Id": "dGq_4-7sGNE",
+			"Movie_name": "Best of KK | Juke box",
+			"Movieimg": "https://i.ytimg.com/vi/dGq_4-7sGNE/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBcmz_CA_NTwzqp0qGeofmgclFUKQ"
+		},
+		{
+			"id": 2,
+			"Video_Id": "Nj2-wwZM2gw",
+			"Movie_name": "BEST OF KK HINDI SONG COLLECTION",
+			"Movieimg": "https://i.ytimg.com/vi/Nj2-wwZM2gw/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "r0c1f6XxRQg",
+			"Movie_name": "Evergreen Hits of KK",
+			"Movieimg": "https://i.ytimg.com/vi/r0c1f6XxRQg/hq720.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "5HwHFuVdJB8",
+			"Movie_name": "Tribute of KK",
+			"Movieimg": "https://i.ytimg.com/vi/5HwHFuVdJB8/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "ZKesN7_pV1A",
+			"Movie_name": "Tujhe Sochta Hoon Lofi Flip",
+			"Movieimg": "https://i.ytimg.com/vi/ZKesN7_pV1A/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "nTQAOa5sqE8",
+			"Movie_name": "KK popular song",
+			"Movieimg": "https://i.ytimg.com/vi/nTQAOa5sqE8/hqdefault.jpg?sqp=-oaymwE3COADEI4CSFXyq4qpAykIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigINCAAQARiMASBRKBUwDw==&rs=AOn4CLB6TOFhM5wPrOU2X-pIMkJ2PJxJ8w"
+		}
+	],
+	"Shreya Ghoshal":[
+		{
+			"id": 1,
+			"Video_Id": "11OWuPcElJw",
+			"Movie_name": "Zihaal e Miskin",
+			"Movieimg": "https://i.ytimg.com/vi/11OWuPcElJw/hq720.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "tyAJ9ANCk6E",
+			"Movie_name": "Best Of Best Shreya Ghoshal Song",
+			"Movieimg": "https://i.ytimg.com/vi/tyAJ9ANCk6E/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "kimzfUgkwyQ",
+			"Movie_name": "Magical Voice of Shreya Ghoshal: Top Songs Jukebox",
+			"Movieimg": "https://i.ytimg.com/vi/kimzfUgkwyQ/hq720.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "uMl9C32RB6E",
+			"Movie_name": "Qaraar | Sukoon",
+			"Movieimg": "https://i.ytimg.com/vi/uMl9C32RB6E/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "i5Eycd5vWrk",
+			"Movie_name": "Maheroo Maheroo",
+			"Movieimg": "https://i.ytimg.com/vi/i5Eycd5vWrk/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "IrmqRrM7iSk",
+			"Movie_name": "Top Songs Mashup 2021 Bollywood",
+			"Movieimg": "https://i.ytimg.com/vi/IrmqRrM7iSk/hq720.jpg"
+		}
+	],
+	"Jubin Nautiyal":[
+		{
+			"id": 1,
+			"Video_Id": "GXWfue9VhTY",
+			"Movie_name": "Ram Siya Ram",
+			"Movieimg": "https://i.ytimg.com/vi/GXWfue9VhTY/hq720.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "2xJlerdkTyU",
+			"Movie_name": "Bewafa Se Pyaar Kiya",
+			"Movieimg": "https://i.ytimg.com/vi/2xJlerdkTyU/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "SJuqqsX8aEc",
+			"Movie_name": "Jubin Nautiyal All New Songs",
+			"Movieimg": "https://i.ytimg.com/vi/SJuqqsX8aEc/hq720.jpg"
+		},		
+		{
+			"id": 4,
+			"Video_Id": "kfuRYHpyt7s",
+			"Movie_name": "New Songs Collection 2021",
+			"Movieimg": "https://i.ytimg.com/vi/kfuRYHpyt7s/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "fD6SzYIRr4c",
+			"Movie_name": "Romantic Hits By Jubin Nautiyal",
+			"Movieimg": "https://i.ytimg.com/vi/fD6SzYIRr4c/hq720.jpg"
+		},	
+		{
+			"id": 6,
+			"Video_Id": "G0ehTJhrxLQ",
+			"Movie_name": "Bana Sharabi",
+			"Movieimg": "https://i.ytimg.com/vi/G0ehTJhrxLQ/hq720.jpg"
+		}
+	]
+	}
+}
