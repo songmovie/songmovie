@@ -259,6 +259,80 @@
 			"Movie_name": "Bana Sharabi",
 			"Movieimg": "https://i.ytimg.com/vi/G0ehTJhrxLQ/hq720.jpg"
 		}
+	],
+	"Hit Song":[
+		{
+			"id": 1,
+			"Video_Id": "cAMHx-m9oh8",
+			"Movie_name": "Kya Loge Tum",
+			"Movieimg": "https://i.ytimg.com/vi/cAMHx-m9oh8/hq720.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "8sLS2knUa6Y",
+			"Movie_name": "Phir Aur Kya Chahiye",
+			"Movieimg": "https://i.ytimg.com/vi/8sLS2knUa6Y/hq720.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "11OWuPcElJw",
+			"Movie_name": "Zihaal e Miskin",
+			"Movieimg": "https://i.ytimg.com/vi/11OWuPcElJw/hq720.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "GXWfue9VhTY",
+			"Movie_name": "Ram Siya Ram",
+			"Movieimg": "https://i.ytimg.com/vi/GXWfue9VhTY/hq720.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "X7WXHhokylc",
+			"Movie_name": "Tere Vaaste",
+			"Movieimg": "https://i.ytimg.com/vi/X7WXHhokylc/hq720.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "YfOLdtbHluo",
+			"Movie_name": "Balenciaga",
+			"Movieimg": "https://i.ytimg.com/vi/YfOLdtbHluo/hq720.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "Sk0DsJuJ_y8",
+			"Movie_name": "Naseeb Se",
+			"Movieimg": "https://i.ytimg.com/vi/Sk0DsJuJ_y8/hq720.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "Db2xSI-PSEc",
+			"Movie_name": "Khoobsurat",
+			"Movieimg": "https://i.ytimg.com/vi/Db2xSI-PSEc/hq720.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "eizIc5eQiEM",
+			"Movie_name": "Deewaane",
+			"Movieimg": "https://i.ytimg.com/vi/eizIc5eQiEM/hq720.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "YxWlaYCA8MU",
+			"Movie_name": "Jhoome Jo Pathaan",
+			"Movieimg": "https://i.ytimg.com/vi/YxWlaYCA8MU/hq720.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "8tUtWSVZAXQ",
+			"Movie_name": "Tu Mile Dil Khile",
+			"Movieimg": "https://i.ytimg.com/vi/8tUtWSVZAXQ/hq720.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "7xXUjQy36KQ",
+			"Movie_name": "Dooriyan",
+			"Movieimg": "https://i.ytimg.com/vi/7xXUjQy36KQ/hq720.jpg"
+		}
 	]
 	}
 }
